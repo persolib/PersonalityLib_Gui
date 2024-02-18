@@ -1,0 +1,26 @@
+{
+  "name": "personalitylib",
+  "version": "0.0.1",
+  "description": "PersonalityLib",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/persolib/PersonalityLib_Gui.git"
+  },
+  "author": "JustWait",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/persolib/PersonalityLib_Gui/issues"
+  },
+  "homepage": "https://github.com/persolib/PersonalityLib_Gui#readme",
+  "devDependencies": {
+    "electron": "^28.2.3"
+  },
+  "dependencies": {
+    "custom-electron-titlebar": "^4.2.8"
+  }
+}
